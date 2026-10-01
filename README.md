@@ -2,8 +2,6 @@
 
 Programming Assignment 1 for Advanced Techniques in ML (EE-5102 / CS-6304) at LUMS. The four tasks look at different ways a model's test data can stop looking like its training data: which visual cues a model relies on, unsupervised domain adaptation, domain generalization, and open-set recognition. All experiments were run in Kaggle GPU notebooks.
 
-Report: [`report/PA1_Report_Beyond_iid_tracked_final.pdf`](report/PA1_Report_Beyond_iid_tracked_final.pdf) (12 pages plus references).
-
 ## Repository structure
 
 ```
